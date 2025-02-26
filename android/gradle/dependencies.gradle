@@ -28,7 +28,7 @@ def apt = [
     androidApi: "com.google.android:android:2.2.1",
     autoCommon: "com.google.auto:auto-common:0.8",
     autoService: "com.google.auto.service:auto-service:1.0-rc3",
-    nullAway: 'com.uber.nullaway:nullaway:0.3.2',
+    nullAway: 'com.uber.nullaway:nullaway:0.6.4',
     daggerCompiler: "com.google.dagger:dagger-compiler:${versions.dagger}",
     javapoet: "com.squareup:javapoet:1.9.0",
     javax: "javax.annotation:jsr250-api:1.0",
